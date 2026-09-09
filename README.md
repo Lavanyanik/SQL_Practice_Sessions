@@ -132,8 +132,8 @@ The goal of this challenge is to build strong SQL fundamentals, develop practica
 
 | Day | Status | Day | Status | Day | Status |
 |-----|--------|-----|--------|-----|--------|
-| 01 | ⬜ | 21 | ⬜ | 41 | ⬜ |
-| 02 | ⬜ | 22 | ⬜ | 42 | ⬜ |
+| 01 | ✅ | 21 | ⬜ | 41 | ⬜ |
+| 02 | ✅ | 22 | ⬜ | 42 | ⬜ |
 | 03 | ⬜ | 23 | ⬜ | 43 | ⬜ |
 | 04 | ⬜ | 24 | ⬜ | 44 | ⬜ |
 | 05 | ⬜ | 25 | ⬜ | 45 | ⬜ |
