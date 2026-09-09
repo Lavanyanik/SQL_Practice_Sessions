@@ -4,10 +4,12 @@ GO
 -- Day-02.3: Sales Pipeline
 
 -- 1. Display every column from the sales_pipeline table.
+select * from sales_pipeline;
 
 -- 2. Display the opportunity ID, sales agent, product, and deal stage.
+select opportunity_id , sales_agent, product, deal_stage from sales_pipeline;
 
--- 3. Display the distinct deal stages.
+-- 3. Display the distinct deal stages
 
 -- 4. Find opportunities with a deal stage of Won.
 
