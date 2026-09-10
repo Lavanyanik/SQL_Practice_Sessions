@@ -1,0 +1,21 @@
+-- Day 3.5: Basic DISTINCT, Aliases, and SQL Review
+-- Question 1: Display each different order_status from olist_orders_dataset.
+-- Question 2: Display each different customer_state from olist_customers_dataset.
+-- Question 3: Display each different payment_type from olist_order_payments_dataset.
+-- Question 4: Display each different product_category_name from olist_products_dataset.
+-- Question 5: Display each different seller_id from olist_order_items_dataset.
+-- Question 6: Display order_id as OrderNumber from olist_orders_dataset.
+-- Question 7: Display order_status as Status from olist_orders_dataset.
+-- Question 8: Display customer_city as City and customer_state as State.
+-- Question 9: Display price as ItemPrice and freight_value as FreightCost.
+-- Question 10: Display payment_value as PaymentAmount from olist_order_payments_dataset.
+-- Question 11: Display distinct order_status values in alphabetical order.
+-- Question 12: Display distinct payment_type values in alphabetical order.
+-- Question 13: Display delivered orders with order_id labeled as OrderNumber.
+-- Question 14: Display products with product_id labeled as ProductNumber.
+-- Question 15: Display order items with price labeled as ItemPrice, sorted from highest to lowest.
+-- Question 16: Display the 5 highest payment_value rows with payment_value labeled as AmountPaid.
+-- Question 17: Display distinct customer_state values for customers whose city is 'sao paulo'.
+-- Question 18: Display delivered orders purchased after '2018-01-01', showing only order_id and order_status.
+-- Question 19: Display credit card payments with payment_value greater than 100, using a clear alias for payment_value.
+-- Question 20: Write a query that selects useful columns, filters rows, gives one column an alias, sorts the results, and limits the output to 10 rows.
