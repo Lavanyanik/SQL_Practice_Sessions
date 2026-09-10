@@ -1,0 +1,21 @@
+-- Day 3.3: Basic Multiple Conditions with Olist Data
+-- Question 1: Find delivered orders purchased after '2018-01-01'.
+-- Question 2: Find orders whose status is 'shipped' or 'invoiced'.
+-- Question 3: Find orders whose status is not 'canceled'.
+-- Question 4: Find customers from the state of 'SP' and the city of 'sao paulo'.
+-- Question 5: Find customers from the state of 'RJ' or 'MG'.
+-- Question 6: Find customers who are not from the state of 'SP'.
+-- Question 7: Find products with a weight greater than 5000 and at least one photo.
+-- Question 8: Find products with a weight less than 1000 or a product_photos_qty equal to 0.
+-- Question 9: Find products whose product_category_name is not NULL.
+-- Question 10: Find order items with a price greater than 100 and freight_value less than 30.
+-- Question 11: Find order items with a price less than 50 or freight_value greater than 50.
+-- Question 12: Find order items where order_item_id is 1 and price is greater than 20.
+-- Question 13: Find credit card payments with payment_value greater than 100.
+-- Question 14: Find boleto payments with payment_installments equal to 1.
+-- Question 15: Find payments that are not voucher payments.
+-- Question 16: Find orders that are delivered and have an order_delivered_customer_date.
+-- Question 17: Find orders that are canceled or unavailable.
+-- Question 18: Find products with a weight between 1000 and 5000 and more than one photo.
+-- Question 19: Find customers from 'SP' or 'RJ' with a customer_zip_code_prefix less than 20000.
+-- Question 20: Find payments with a payment_value between 50 and 500 that are not cash payments.
