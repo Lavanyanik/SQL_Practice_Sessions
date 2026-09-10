@@ -1,0 +1,21 @@
+-- Day 3.1: Basic SELECT Practice with Olist Orders
+-- Question 1: Display every column from the olist_orders_dataset table.
+-- Question 2: Display only the order_id column from olist_orders_dataset.
+-- Question 3: Display the order_id and customer_id columns from olist_orders_dataset.
+-- Question 4: Display the order_id, order_status, and order_purchase_timestamp columns.
+-- Question 5: Display the customer_id and order_status columns from olist_orders_dataset.
+-- Question 6: Display every column from the olist_customers_dataset table.
+-- Question 7: Display only the customer_id column from olist_customers_dataset.
+-- Question 8: Display the customer_id and customer_unique_id columns.
+-- Question 9: Display the customer_city and customer_state columns.
+-- Question 10: Display the customer_id, customer_city, and customer_state columns.
+-- Question 11: Display every column from the olist_products_dataset table.
+-- Question 12: Display only the product_id column from olist_products_dataset.
+-- Question 13: Display the product_id and product_category_name columns.
+-- Question 14: Display the product_category_name and product_weight_g columns.
+-- Question 15: Display the product_id, product_category_name, and product_photos_qty columns.
+-- Question 16: Display every column from the olist_order_payments_dataset table.
+-- Question 17: Display the order_id and payment_type columns from olist_order_payments_dataset.
+-- Question 18: Display the order_id, payment_value, and payment_installments columns.
+-- Question 19: Display the order_id, product_id, and seller_id columns from olist_order_items_dataset.
+-- Question 20: Display the order_id, product_id, price, and freight_value columns from olist_order_items_dataset.
