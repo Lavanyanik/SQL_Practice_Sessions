@@ -1,0 +1,21 @@
+-- Day 3.2: Basic WHERE Filtering with Olist Data
+-- Question 1: Find all orders whose order_status is 'delivered'.
+-- Question 2: Find all orders whose order_status is 'canceled'.
+-- Question 3: Find all orders whose order_status is 'shipped'.
+-- Question 4: Find customers who live in the state of 'SP'.
+-- Question 5: Find customers who live in the city of 'sao paulo'.
+-- Question 6: Find products with a product_weight_g greater than 10000.
+-- Question 7: Find products with a product_weight_g less than 1000.
+-- Question 8: Find products with product_photos_qty equal to 0.
+-- Question 9: Find order items with a price greater than 100.
+-- Question 10: Find order items with a freight_value less than 20.
+-- Question 11: Find order items where order_item_id is equal to 1.
+-- Question 12: Find payments where payment_type is 'credit_card'.
+-- Question 13: Find payments where payment_type is 'boleto'.
+-- Question 14: Find payments with a payment_value greater than 200.
+-- Question 15: Find payments with payment_installments equal to 1.
+-- Question 16: Find orders purchased after '2018-01-01' using order_purchase_timestamp.
+-- Question 17: Find orders where order_delivered_customer_date is NULL.
+-- Question 18: Find products whose product_category_name is NULL.
+-- Question 19: Find customers with a customer_zip_code_prefix greater than 50000.
+-- Question 20: Find order items with a price between 50 and 200.
