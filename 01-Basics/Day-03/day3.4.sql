@@ -1,0 +1,21 @@
+-- Day 3.4: Basic ORDER BY and LIMIT Practice with Olist Data
+-- Question 1: Display all orders sorted by order_purchase_timestamp from oldest to newest.
+-- Question 2: Display all orders sorted by order_purchase_timestamp from newest to oldest.
+-- Question 3: Display all orders sorted by order_status alphabetically.
+-- Question 4: Display all customers sorted by customer_city alphabetically.
+-- Question 5: Display all customers sorted by customer_state and then customer_city.
+-- Question 6: Display all products sorted by product_weight_g from lightest to heaviest.
+-- Question 7: Display all products sorted by product_weight_g from heaviest to lightest.
+-- Question 8: Display all order items sorted by price from lowest to highest.
+-- Question 9: Display all order items sorted by price from highest to lowest.
+-- Question 10: Display all order items sorted by freight_value from highest to lowest.
+-- Question 11: Display all payments sorted by payment_value from lowest to highest.
+-- Question 12: Display all payments sorted by payment_value from highest to lowest.
+-- Question 13: Display the 5 most expensive order items.
+-- Question 14: Display the 10 cheapest order items.
+-- Question 15: Display the 10 largest payment values.
+-- Question 16: Display the 10 most recently purchased orders.
+-- Question 17: Display the 5 products with the greatest product_weight_g.
+-- Question 18: Display the first 10 customers when sorted by customer_city.
+-- Question 19: Display delivered orders sorted by order_purchase_timestamp from newest to oldest, showing only 10 rows.
+-- Question 20: Display credit card payments sorted by payment_value from highest to lowest, showing only 10 rows.
