@@ -1,8 +1,18 @@
 -- Day 3.3: Basic Multiple Conditions with Olist Data
+USE SQLPractice;
+GO
+
 -- Question 1: Find delivered orders purchased after '2018-01-01'.
+select * from olist_orders_dataset where order_status = 'delivered' and order_purchase_timestamp > '2018-01-01';
+
 -- Question 2: Find orders whose status is 'shipped' or 'invoiced'.
+select * from olist_orders_dataset where order_status = 'shipped' or order_status = 'invoiced';
+
 -- Question 3: Find orders whose status is not 'canceled'.
+select * from olist_orders_dataset where order_status <> 'canceled';
+
 -- Question 4: Find customers from the state of 'SP' and the city of 'sao paulo'.
+
 -- Question 5: Find customers from the state of 'RJ' or 'MG'.
 -- Question 6: Find customers who are not from the state of 'SP'.
 -- Question 7: Find products with a weight greater than 5000 and at least one photo.
